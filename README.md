@@ -1,2 +1,2 @@
 # Portfolio-FrontEnd
-Ejemplo de portfolio en hatml bassico
+Ejemplo de portfolio en html basico
